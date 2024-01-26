@@ -3,7 +3,7 @@ body {
   font-family: "Josefin Sans", sans-serif;
 }
 a {
-  color: blueviolet;
+  color: rgb(98, 92, 148);
 }
 header {
   border-bottom: 1px solid #f9f7fe;
@@ -29,7 +29,7 @@ header {
 }
 
 .search-form-button {
-  background-color: blueviolet;
+  background-color: rgb(98, 92, 148);
   color: aqua;
   font-family: "Josefin Sans", sans-serif;
   font-size: 16px;
@@ -62,7 +62,7 @@ main {
 }
 
 .weather-app-details strong {
-  color: blueviolet;
+  color: rgb(98, 92, 148);
 }
 
 .weather-app-temperature-container {
